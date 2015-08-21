@@ -1,0 +1,36 @@
+body{
+  background: url("http://i.imgur.com/8kqiYpf.jpg") no-repeat right fixed;
+  background-color: #000018;
+  font-weight: bold;
+  font-family: vivaldi, cursive;
+  color:#ff0000;
+}
+textarea{
+  display: flex;
+  border-color: #05DA05;
+  border-radius: 5px;
+  border-width: medium;
+  margin: 10px auto 20px 0;
+}
+.secrets{
+  color:#05DA05;
+}
+h1{
+  text-align:justify;
+  text-shadow: 5px;
+  text-decoration: underline;
+  padding: 3px;
+  display:inline;
+}
+#Nothing{
+  float: left;
+  width:30%;
+}
+#Everything{
+  float:left;
+  width:50%;
+}
+#Bliss{
+  float: left;
+  width:20%;
+}
